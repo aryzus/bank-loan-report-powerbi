@@ -3,7 +3,7 @@ Bank Loan Report built in Power BI with 3 dashboards — Summary, Overview, and 
 
 
 
-Bank Loan Report — Power BI Project
+# Bank Loan Report — Power BI Project
 
 This project is a Bank Loan Analysis Dashboard built in Power BI to analyze loan applications, funded amounts, payments received, and overall loan quality. The report provides both high-level KPIs and detailed loan-level insights to support data-driven decision-making.
 
